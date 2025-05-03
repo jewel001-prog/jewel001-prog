@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Enamul, from Nuclear Engineering at Unversity of Dhaka 
 
 <!--
 **jewel001-prog/jewel001-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
