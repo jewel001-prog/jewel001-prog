@@ -1,6 +1,6 @@
 ## Hi there 👋
-I am Enamul, pursuing 
-Nuclear Engineering at 
+I am Enamul, 
+pursuing Nuclear Engineering at 
 Unversity of Dhaka 
 
 <!--
